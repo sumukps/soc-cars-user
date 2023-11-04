@@ -1,0 +1,3 @@
+[submodule "soc_cars_core"]
+	path = soc_cars_core
+	url = https://github.com/sumukps/soc_cars_core.git
